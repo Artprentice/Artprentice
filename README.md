@@ -1,4 +1,4 @@
-<image align="center" src="https://github.com/Artprentice/Artprentice/blob/main/matrix.gif">
+<image align="center" width="400" src="https://github.com/Artprentice/Artprentice/blob/main/matrix.gif">
 ### Hi there 👋
 
 <!--
